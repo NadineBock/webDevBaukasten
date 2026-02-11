@@ -1,15 +1,32 @@
-# Web Development Baukasten
+# 🌊 Web Development Baukasten
 
-## Table of Contents
-- [Introduction](#introduction)
-- [HTML Complete Guide](docs/HTML-complete-guide.md)
-- [CSS Complete Guide](docs/CSS-complete-guide.md)
-- [JavaScript Complete Guide](docs/JavaScript-complete-guide.md)
-- [Git & GitHub Guide](docs/Git-GitHub-guide.md)
-- [APIs Guide](docs/APIs-guide.md)
-- [Performance Guide](docs/Performance-guide.md)
-- [Accessibility Guide](docs/Accessibility-guide.md)
-- [Security Guide](docs/Security-guide.md)
+Deine ultimative Referenz für Web-Development. HTML, CSS, JavaScript - mit Befehlen und praktischen Beispielen für wunderschöne Designs.
 
-## Introduction
-This repository serves as a comprehensive web development toolkit, providing guides, tips, snippets, and resources for developers at all stages of their journey. Whether you're just starting out or looking to deepen your knowledge, you'll find valuable information and tools for all aspects of web development.
+## 📚 Inhaltsverzeichnis
+
+### 📖 Guides
+- [HTML Guide](docs/HTML-guide.md)
+- [CSS Guide](docs/CSS-guide.md)
+- [JavaScript Guide](docs/JavaScript-guide.md)
+
+### 💡 Code Snippets
+- [HTML Snippets](snippets/html-snippets.md)
+- [CSS Snippets](snippets/css-snippets.md)
+- [JavaScript Snippets](snippets/javascript-snippets.md)
+- [Advanced JavaScript](snippets/advanced-js-snippets.md)
+
+### 🎯 Cheat Sheets
+- [CSS Selectors](cheatsheets/CSS-selectors-cheatsheet.md)
+- [Array Methods](cheatsheets/Array-methods-cheatsheet.md)
+- [String Methods](cheatsheets/String-methods-cheatsheet.md)
+- [Regular Expressions](cheatsheets/Regex-cheatsheet.md)
+
+### 🔧 Advanced Topics
+- [LocalStorage & SessionStorage](advanced/Storage-guide.md)
+- [Regular Expressions Complete](advanced/Regex-complete.md)
+- [SVG Manipulation](advanced/SVG-guide.md)
+- [Performance & Optimization](advanced/Performance-guide.md)
+
+---
+
+**Erstellt:** 2026-02-11 | Designed with 🌊 Türkis Vibes
